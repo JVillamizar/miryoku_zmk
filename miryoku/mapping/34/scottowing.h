@@ -19,7 +19,7 @@ XXX K20 K21 K22 K23 K24  K25 K26 K27 K28 K29 XXX \
    For standard Miryoku 34-key usage (2 thumbs per half), use the inner 2 per side:
    left  = K33 K34
    right = K35 K36
-   (K32 and K37 will be &none under 34-key thumb tables.) */ \K33 K34 K35 K36
+   (K32 and K37 will be &none under 34-key thumb tables.) */ \ K33 K34 K35 K36
 
 /* Ferris-style thumb kludge, but with ScottoWing thumb indices:
    3 rows × 12 = 36, then thumbs are 36..39 */
